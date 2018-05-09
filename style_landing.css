@@ -1,0 +1,106 @@
+/*html {*/
+/*.main-page-juancho { 
+  background: url(kaboom_landing.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}*/
+
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+
+body {
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+	font-size: 6rem
+}
+
+hr {
+  max-width: 70px;
+  border-width: 6px;
+  border-color: #ADF026; 
+}
+
+.faded {
+  color: rgba(255, 255, 83, 0.8); 
+}
+
+header.startup {
+  background-position: center;
+  background-image: url("kaboom_landing.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+/*header.startup h1 {
+  font-size: 2rem; 
+}*/
+
+header.startup hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+}
+
+.opener {
+	color: #E4DDFA;
+	font-size: 3rem
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border-width: 2.5px;
+  border-radius: 300px;
+  font-family: 'Roboto Slab', sans-serif;
+}
+
+.btn-xl {
+  padding: 1rem 2rem; 
+}
+
+.btn-primary {
+  background-color: #F3A0CF;
+  border-color: #D12185; }
+
+.btn-primary:hover {
+  background-color: #B6A5ED;
+  border-color: #4F2FB7;
+  border-width: 5px;
+  cursor: pointer;
+}
+/*.section {
+	display: flex;
+	justify-content: center;
+	font-family: 'Roboto Slab', serif;
+	font-size: 70px;
+	color: #EFFC8A;
+}
+*/
+
+/*button {
+	color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    display: block;
+    margin: auto;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 5px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+   }*/
